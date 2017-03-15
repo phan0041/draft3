@@ -1,1 +1,1 @@
-web: gunicorn ConvePlatform.wsgi --log-file -
+web: gunicorn ExamPapers.wsgi --log-file -
